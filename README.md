@@ -1,0 +1,2 @@
+# sooty
+Lossless compression library
